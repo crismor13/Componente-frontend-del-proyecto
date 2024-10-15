@@ -77,7 +77,7 @@ const InventoryPage = () => {
 
   return (
     <div>
-      <h1>Inventario</h1>
+      <h1>Listado de inventario</h1>
       <InventoryList products={products} /> {/* Pasamos la lista de productos como props */}
     </div>
   );
